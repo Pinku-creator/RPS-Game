@@ -1,6 +1,6 @@
 # RPS-Game
 The First JavaScript Project - Rock Paper Scissor Game 
-Play with computer. Let's see the count of Winning
+Let's see the count of Winning
 Want to play in Mobile ? Carry on, It's Responsive.
 
 # Description
@@ -22,7 +22,7 @@ EndLess GamePlay
 > Scissors cuts paper. 
 > Paper covers rock.
 
-# Technologies Used: 
-HTML5: Used for structuring the Web pages. 
-CSS3: Used for styling and layout. 
+# Technologies Used
+HTML: Used for structuring the Web pages. 
+CSS: Used for styling and layout. 
 JavaScript: Used for implementing Game logic and interactivity.
