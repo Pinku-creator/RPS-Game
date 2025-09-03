@@ -1,5 +1,5 @@
 ## RPS-Game
-The First JavaScript Project - Rock Paper Scissor Game 
+RPS Project - Rock Paper Scissor Game 
 Let's see the count of Winning
 Want to play in Mobile ? Carry on, It's Responsive.
 
